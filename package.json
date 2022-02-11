@@ -1,6 +1,6 @@
 {
   "name": "reverse-proxy-app",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This app serves as a \"hello world\" type application for configuring an Nginx Reverse Proxy.",
   "main": "dist/index.js",
   "scripts": {
